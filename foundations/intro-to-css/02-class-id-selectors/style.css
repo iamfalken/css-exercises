@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.first-element,
+.third-element,
+.fifth-element {
+  background-color: #ffc0ff;
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+#second-element {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.third-element {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: #adff2f;
+  font-size: 24px;
+  font-weight: bold;
+}
